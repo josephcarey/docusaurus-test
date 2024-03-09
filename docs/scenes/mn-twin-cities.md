@@ -8,7 +8,7 @@ title: "Minnesota"
 
 ## SWINGesota
 
-[Create a page](/create-a-page).
+<!-- [Create a page](/create-a-page). -->
 
 SWINGesota
 
